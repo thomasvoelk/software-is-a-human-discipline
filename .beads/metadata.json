@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "philo",
+  "project_id": "8b323b6b-99ce-4f4c-9570-5fb3901969ec"
+}
