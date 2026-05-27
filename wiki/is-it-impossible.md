@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Is it impossible, or do I just not know how?
 
 **Summary**: "This doesn't work" and "I can't do this" often mean "I don't know how to do this yet." The instinct to quit a new practice early is almost always premature.

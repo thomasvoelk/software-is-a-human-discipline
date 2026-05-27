@@ -13,6 +13,7 @@
 
 - [[the-switch]] — Awareness + practice = a new default. The pattern behind personal growth.
 - [[responsibility-process]] — Avery's ladder from powerless to responsible. The first switch.
+- [[stepping-out-of-the-comfort-zone]] — Rilke and Avery explain why facing things that exceed you is how growth actually happens.
 - [[curiosity-over-anger]] — Rainsberger's trick: flip from defensiveness to curiosity. The second switch.
 - [[is-it-impossible]] — "This doesn't work" often means "I don't know how yet."
 - [[learning-in-the-gaps]] — Kent Beck on mastery: what you do *between* features defines you.

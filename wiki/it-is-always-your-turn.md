@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # It Is Always Your Turn
 
 **Summary**: Seth Godin's idea: there is no waiting for permission, no blaming the system. You can always do something.

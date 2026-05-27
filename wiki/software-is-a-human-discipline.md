@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Software is a Human Discipline
 
 **Summary**: The core thesis of this philosophy. The technical part of software development is the easy part. The hard part is people.

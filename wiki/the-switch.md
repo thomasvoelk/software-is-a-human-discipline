@@ -1,3 +1,7 @@
+---
+status: reviewed
+---
+
 # The Switch
 
 **Summary**: The pattern behind personal growth in this philosophy: awareness of a destructive state, then a deliberate flip to a constructive one. Requires serious practice before it becomes a new default.

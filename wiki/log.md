@@ -4,6 +4,17 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-05-27 — New page: stepping-out-of-the-comfort-zone
+
+**Pages created**:
+- `stepping-out-of-the-comfort-zone.md` — connects Rilke's "Der Schauende" (be defeated by ever greater things) with Avery's Responsibility Process and Thomas's personal experience of being pushed to present at a conference early in his career. Includes how he passes this on today.
+
+**Pages updated**:
+- `index.md` — added new page entry
+- `CLAUDE.md` — corrected purpose from "Japan trip" to "software development philosophy"
+
+---
+
 ## 2026-05-26 — Review session 1
 
 **Pages read**: `the-switch`, `responsibility-process`, `curiosity-over-anger` (partial — still in progress at session end)
@@ -18,7 +29,6 @@ Append-only record of all wiki operations.
 - `no-absolutes` — new page: this philosophy describes what worked for me, not a prescription
 - `is-it-impossible` — new page: "this doesn't work" often means "I don't know how yet"; Rainsberger, Jeffries baseball article, personal examples (markdown, Terraform), developing self-switch
 
-**Pages not yet reviewed**: `learning-in-the-gaps`, `nonviolent-communication`, `enchantment`, `it-is-always-your-turn`, `challenge-the-solution`, `theory-of-constraints`, `no-absolutes`, `is-it-impossible`
 
 ---
 

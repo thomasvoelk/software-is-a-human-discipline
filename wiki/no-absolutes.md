@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # No Absolutes
 
 **Summary**: This philosophy describes what worked for me, not a prescription for everyone. I do not like to talk in absolutes.

@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Challenge the Solution
 
 **Summary**: Customers always come with solutions. Your job is to uncover the actual problem. Only then can you — together — find the best possible solution.

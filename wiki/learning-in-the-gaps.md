@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Learning in the Gaps
 
 **Summary**: Mastery in software development comes from what you do between features, not during them. The habit of learning in the gaps separates people who master programming from people who just do it.

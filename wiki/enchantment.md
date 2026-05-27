@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Enchantment
 
 **Summary**: Guy Kawasaki's framework for winning people over. You change hearts, minds, and actions through quality, likability, and trustworthiness — not pressure or persuasion.

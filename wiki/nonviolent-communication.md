@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Nonviolent Communication
 
 **Summary**: Marshall Rosenberg's framework for communication. Most conflict is unmet needs, not bad people. Separating observations from evaluations is the foundation.

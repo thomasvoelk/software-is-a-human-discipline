@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Theory of Constraints
 
 **Summary**: Goldratt's insight: every system has one bottleneck that limits throughput. Find it. Everything else is secondary.

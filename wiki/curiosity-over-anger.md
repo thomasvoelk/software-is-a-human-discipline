@@ -1,3 +1,7 @@
+---
+status: reviewed
+---
+
 # Curiosity Over Anger
 
 **Summary**: When someone has a different opinion and you feel anger or defensiveness rising, flip the switch: go into curiosity mode.

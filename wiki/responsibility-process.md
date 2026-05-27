@@ -1,3 +1,7 @@
+---
+status: reviewed
+---
+
 # Responsibility Process
 
 **Summary**: Christopher Avery's model of how people respond to problems. Most responses are powerless. Only one is not.
