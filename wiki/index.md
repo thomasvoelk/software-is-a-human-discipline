@@ -17,6 +17,7 @@
 - [[curiosity-over-anger]] — Rainsberger's trick: flip from defensiveness to curiosity. The second switch.
 - [[is-it-impossible]] — "This doesn't work" often means "I don't know how yet."
 - [[learning-in-the-gaps]] — Kent Beck on mastery: what you do *between* features defines you.
+- [[blended-skills]] — Breadth across the software process is a form of expertise. Specialization is a choice people make without realizing it is a choice.
 
 ## Working with others
 

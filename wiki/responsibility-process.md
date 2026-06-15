@@ -36,6 +36,8 @@ The practical move is [[the-switch]]: whenever I catch myself below the line —
 
 This pairs directly with Seth Godin's "it is always your turn" — see [[it-is-always-your-turn]]. If you are at Responsibility, there is always a move available to you.
 
+Over time, repeatedly choosing Responsibility has a compounding effect. You stop waiting for specialists, permissions, or perfect conditions and instead learn what is necessary to move forward. This is one of the reasons I developed [[blended-skills]] across requirements, development, architecture, deployment, and operations.
+
 ## Why I teach this first
 
 Avery's point is that this is not a character flaw — it is a mental process operating identically in everyone. It is the starting condition. Showing junior developers this model early gives them the chance to recognise these states in themselves and move to where the real power is: the feeling that you are bigger than the problem, that you have the ability to see and resolve it. And that is an amazing feeling.
@@ -44,5 +46,6 @@ Avery's point is that this is not a character flaw — it is a mental process op
 
 - [[the-switch]]
 - [[it-is-always-your-turn]]
+- [[blended-skills]]
 - [[nonviolent-communication]]
 - [[software-is-a-human-discipline]]

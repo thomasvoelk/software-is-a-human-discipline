@@ -4,6 +4,18 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-15 — New page: blended-skills
+
+**Source**: Conversation with Thomas triggered by Martin Fowler's "Expert Generalists" article (https://martinfowler.com/articles/expert-generalist.html).
+
+**Pages created**:
+- `blended-skills.md` — argues that breadth across the software development process is a legitimate form of expertise. Draws on Thomas's career history (SOPHIST, small Java shop), the WebSphere moment at his current company, and his flex team as a live proof. Central claim: specialization is a hidden choice, and going wide is also a choice available to anyone. Introduces the concept of *abgefärbt* — the idea spreading to teammates by example. Connects to Fowler's expert generalist framework.
+
+**Pages updated**:
+- `index.md` — added blended-skills entry under "Working with yourself"
+
+---
+
 ## 2026-05-27 — New page: stepping-out-of-the-comfort-zone
 
 **Pages created**:
